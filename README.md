@@ -14,6 +14,11 @@ I design the systems behind large B2B conferences, so teams run them with order 
 - **AI workflows with Claude Code**: agents that plan my day, measure content, draft proposals and keep a command center up to date.
 - **Landing pages and funnels**: [eunicelopez.com](https://eunicelopez.com), connected to GoHighLevel, GA4 and Clarity.
 
+### Open source
+
+- [**email-skills**](https://github.com/Elopezsu/email-skills): Claude Code skills to build, audit and humanize cold email sequences.
+- [**historia-viva-web**](https://github.com/Elopezsu/historia-viva-web): my website, static pages and interactive lead magnets.
+
 ### Proof
 
 - **ValuSignal 2026**: architected the operating system for 150+ speakers and 17–20 sponsors.
@@ -32,4 +37,4 @@ In Spanish, I'm a historian and family constellator. I tell the stories of the w
 
 **Languages:** Spanish · English · Portuguese
 
-[LinkedIn](https://www.linkedin.com/in/eunice-lopezsuarez) · [eunicelopez.com](https://eunicelopez.com)
+[eunicelopez.com](https://eunicelopez.com) · [LinkedIn](https://www.linkedin.com/in/eunice-lopez-suarez/) · [Instagram](https://www.instagram.com/eunice.historiaviva/)
